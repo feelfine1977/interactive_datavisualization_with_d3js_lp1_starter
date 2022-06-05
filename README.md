@@ -1,4 +1,4 @@
-# Interactive Data Visualization with D3js - Project 1 starter
+# Interactive Data Visualization with D3js - Digital Infographic - Starter folder
 ## A Manning's liveProject
 
-These are the starter files for Project 1.
+These are the starter files for the project Digital Infographic.

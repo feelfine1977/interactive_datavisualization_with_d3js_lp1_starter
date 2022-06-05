@@ -64,12 +64,12 @@ ul {
 li {
   display: flex;
   margin: 5px 0;
-  font-size: 1.4rem;
+  font-size: 14px;
 }
 li span {
   flex-shrink: 0;
 }
-.legend-circle {
+li span.legend-circle {
   margin-top: 4px;
   margin-right: 7px;
   width: 10px;
